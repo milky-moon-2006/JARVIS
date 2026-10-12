@@ -1,0 +1,8 @@
+requests
+customtkinter
+pyttsx3
+SpeechRecognition
+PyAudio
+pywhatkit
+opencv-python
+Pillow
